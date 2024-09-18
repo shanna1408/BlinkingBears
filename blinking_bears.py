@@ -1,4 +1,3 @@
-from gpiozero import LED
 from time import sleep
 import os
 import sys
