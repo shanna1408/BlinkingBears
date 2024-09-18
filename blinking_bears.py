@@ -1,5 +1,3 @@
-# Complete Project Details: https://RandomNerdTutorials.com/projects-raspberry-pi/
-
 from gpiozero import LED
 from time import sleep
 import os
